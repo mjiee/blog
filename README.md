@@ -2,6 +2,8 @@
 
 blog是基于react的个人博客项目。
 
+访问地址: [blog](https://blog.mjiee.top/)
+
 部署方法：
 
 ```bash
